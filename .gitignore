@@ -1,0 +1,23 @@
+# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
+
+# dependencies
+/material-ui-tutorial/node_modules
+/material-ui-tutorial/.pnp
+/material-ui-tutorial.pnp.js
+
+# testing
+/material-ui-tutorial/coverage
+
+# production
+/material-ui-tutorial/build
+
+# misc
+/material-ui-tutorial/.DS_Store
+/material-ui-tutorial/.env.local
+/material-ui-tutorial/.env.development.local
+/material-ui-tutorial/.env.test.local
+/material-ui-tutorial/.env.production.local
+
+/material-ui-tutorial/npm-debug.log*
+/material-ui-tutorial/yarn-debug.log*
+/material-ui-tutorial/yarn-error.log*
